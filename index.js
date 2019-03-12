@@ -13,10 +13,10 @@ function scuberGreetingForFeet(someValue) {
   return result
 }
 
-function ternaryCheckCity(someValue)
+function ternaryCheckCity(city)
  const city = "NYC" 
  let result
- switch (someValue) {
+ switch (city) {
    case NYC
  }
  
