@@ -13,7 +13,7 @@ function scuberGreetingForFeet(someValue) {
   return result
 }
 
-function ternaryCheckCity(city)
+function ternaryCheckCity(city) {
  const city = 'NYC' 
  let result
  switch (city) {
@@ -21,17 +21,8 @@ function ternaryCheckCity(city)
     result = "Ok, sounds good." 
     break;
     default:
-    result = "No go"
+    result = "No go."
+    break;
  }
- 
- switch (expression) {
-    case value1:
-        // Statements
-        break;
-    case value2:
-        // Statements
-        break;
-    default:
-        // Statements
-        break;
+ return resulfe
 }
