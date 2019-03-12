@@ -2,8 +2,9 @@
 function scuberGreetingForFeet(someValue) {
   let result
   if (someValue < 30) {
-    result = 
+    result = 0
   }
+  return 
   
   else if (someValue > 2000) {
     result = 30
