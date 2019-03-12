@@ -2,6 +2,7 @@
 function scuberGreetingForFeet(someValue) {
   let result
   if (distance > 2000) {
-    result =
+    result = 30
   }
+  return result
 }
