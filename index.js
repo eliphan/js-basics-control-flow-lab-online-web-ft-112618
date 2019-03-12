@@ -21,3 +21,5 @@ function ternaryCheckCity(someValue)
  else {
    result = "No go."
  }
+ 
+ 
