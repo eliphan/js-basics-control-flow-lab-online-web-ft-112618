@@ -1,7 +1,9 @@
 // Write your code in this file!
 function scuberGreetingForFeet(someValue) {
   let result
-  if (someValue < 30)
+  if (someValue < 30) {
+    result = 
+  }
   
   else if (someValue > 2000) {
     result = 30
