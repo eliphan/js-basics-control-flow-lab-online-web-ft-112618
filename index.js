@@ -18,7 +18,10 @@ function ternaryCheckCity(city)
  let result
  switch (city) {
    case 'NYC':
-     
+    result = "Ok, sounds good." 
+    break;
+    default:
+    result = "No go"
  }
  
  switch (expression) {
