@@ -4,7 +4,8 @@ function scuberGreetingForFeet(someValue) {
   if (someValue < 30) {
     result = 0
   }
-  return 
+  return ''
+  break
   
   else if (someValue > 2000) {
     result = 30
