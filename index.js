@@ -25,3 +25,5 @@ function ternaryCheckCity(city) {
  }
  return result
 }
+
+function 
