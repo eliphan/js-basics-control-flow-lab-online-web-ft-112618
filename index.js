@@ -14,7 +14,6 @@ function scuberGreetingForFeet(someValue) {
 }
 
 function ternaryCheckCity(city) {
- let city 
  let result
  switch (city) {
    case 'NYC':
